@@ -68,8 +68,6 @@ Please refer to the tables below for detailed results.
 | **YOLOv9 Base**                | 0.682         | 0.550      | 0.678   | 0.516        |
 
 
-### Class-Wise Metrics for YOLO Variants
-
 ## Class-Wise Performance Metrics
 
 | Class              | YOLOv5 P | YOLOv5 R | YOLOv5 mAP@0.5 | YOLOv5+C3HB P | YOLOv5+C3HB R | YOLOv5+C3HB mAP@0.5 | YOLOv7 P | YOLOv7 R | YOLOv7 mAP@0.5 | YOLOv7-Trans P | YOLOv7-Trans R | YOLOv7-Trans mAP@0.5 | YOLOv7-C3C2 P | YOLOv7-C3C2 R | YOLOv7-C3C2 mAP@0.5 | YOLOv7-MobileOne P | YOLOv7-MobileOne R | YOLOv7-MobileOne mAP@0.5 | YOLOv8 P | YOLOv8 R | YOLOv8 mAP@0.5 | YOLOv9 P | YOLOv9 R | YOLOv9 mAP@0.5 |
