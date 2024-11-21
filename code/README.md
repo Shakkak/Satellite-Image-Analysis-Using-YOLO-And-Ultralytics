@@ -1,28 +1,33 @@
+# Code
+
 ## Overview
 
-This project relies on **heavily modified versions** of several third-party libraries and repositories, many of which are hosted as private repositories on GitHub. These modifications are essential for the functionality of this codebase. Without these changes, the code **will not function correctly** and may break entirely. Below are the details you need to understand and work with this project.
+This project is highly customized and relies on modified versions of several libraries and repositories. Due to the extensive modifications, these dependencies are integral to the proper functioning of the code. However, these libraries and repositories are private and stored within a personal GitHub account. **As a result, the full code cannot be shared in this repository**, as it would be non-functional without access to these private resources.
 
 ---
 
-## Key Details
+## Why the Code Cannot Be Shared
 
-### Dependency Modifications
+### 1. **Custom Modifications**
 
-- The project depends on **customized versions** of libraries that differ significantly from their public counterparts.
-- These modifications include:
-  - Changes to core functionality.
-  - Adjustments to APIs and workflows.
-  - Addition of project-specific features.
+- The code relies on extensively altered libraries and repositories, tailored specifically to meet project requirements.
+- These changes include:
+  - Significant modifications to core functionality.
+  - Custom features and adjustments that are unavailable in public versions.
 
-### Private Repositories
+### 2. **Private Dependencies**
 
-- Some dependencies are stored in **private GitHub repositories** and are not available publicly.
-- These private repositories contain critical changes and cannot be replaced with their public versions.
+- Many of the required libraries and repositories are hosted in **private GitHub repositories** and cannot be made public due to:
+  - Licensing or proprietary constraints.
+  - Security or confidentiality concerns.
 
-### Breakage Without Modifications
+### 3. **Code Breakage Without Modifications**
 
-Using the unmodified versions of libraries will likely result in:
+- Attempting to run the code without the modified dependencies will lead to:
+  - **Build Errors:** Missing APIs or incompatible functionality.
+  - **Runtime Failures:** Crashes or incomplete execution.
+  - **Incorrect Behavior:** Inaccurate results or malfunctioning features.
 
-- **Build/Compilation Errors**: Missing APIs or incompatible dependencies.
-- **Runtime Failures**: Logic mismatches or incomplete functionality.
-- **Incorrect Results**: Unexpected behavior due to absent custom features.
+For this reason, sharing only the main code without these dependencies would render it incomplete and unusable.
+
+---
